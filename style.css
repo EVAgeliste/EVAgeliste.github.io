@@ -1,0 +1,43 @@
+body {
+  background-color: #FFF0F5;
+}
+.titre {
+  color: #800080;
+  font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+  margin-bottom: -10px;
+}
+.marges {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  margin-bottom: 3%;
+}
+#texte {
+  color: #800080;
+  font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+.image {
+  display: block;
+  height: 300;
+  margin-left: auto;
+  margin-right: auto;
+}
+#swag {
+  display: block;
+  margin-bottom: 3%;
+}
+#Karadok {
+  display: block;
+  margin-bottom: 3%;
+}
+#video {
+  display: block;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+#enterrement {
+  display: block;
+  margin-top: 3%;
+}
